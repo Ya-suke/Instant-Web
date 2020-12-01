@@ -1,2 +1,2 @@
-# Instant-Web
+# Instant-Web-Project
 Mockup project
